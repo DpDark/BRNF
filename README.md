@@ -58,7 +58,7 @@ COCO/
 - Please cite our paper if the code is helpful to your research.
 
 ```
-@InProceedings{Jo_2023_ICCV,
+@InProceedings{Qiu_2025_ICCV,
     author    = {Qiu, Xianglin and Wang, Xiaoyang and Zhang, Zhen and Xiao, Jimin},
     title     = {Bias-Resilient Weakly Supervised Semantic Segmentation Using Normalizing Flows},
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
