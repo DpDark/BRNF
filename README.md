@@ -59,12 +59,11 @@ COCO/
 
 ```
 @InProceedings{Jo_2023_ICCV,
-    author    = {Jo, Sanghyun and Yu, In-Jae and Kim, Kyungsu},
-    title     = {MARS: Model-agnostic Biased Object Removal without Additional Supervision for Weakly-Supervised Semantic Segmentation},
+    author    = {Qiu, Xianglin and Wang, Xiaoyang and Zhang, Zhen and Xiao, Jimin},
+    title     = {Bias-Resilient Weakly Supervised Semantic Segmentation Using Normalizing Flows},
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
     month     = {October},
-    year      = {2023},
-    pages     = {614-623}
+    year      = {2025},
 }
 ```
 ## Acknowledgement
