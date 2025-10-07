@@ -53,7 +53,7 @@ COCO/
      └── val2014
 ```
 ## Main Results
-![Main_result](./imgs/main_result.jpg)
+<img src="./imgs/main_result.jpg" alt="Main_result" width="40%">
 ## Citation
 - Please cite our paper if the code is helpful to your research.
 
