@@ -63,7 +63,7 @@ COCO/
     title     = {Bias-Resilient Weakly Supervised Semantic Segmentation Using Normalizing Flows},
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
     month     = {October},
-    year      = {2025},
+    year      = {2025}
 }
 ```
 ## Acknowledgement
